@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR1d0031/v1
+canonical_location: https://kanripo.org/bkk/KR1d0031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 儀禮釋宮
+  date: '2015-08-24 22:08:34.891732'
+  source:
+    repository: kanripo
+    path: KR1d0031
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1d0031_000.yaml, hash: 'sha256:a11d6af8bf1e4fdf433f37659bfc4fcaadc7311077bc73406b8209798d05f1ca'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1d0031_000.markers.yaml, hash: 'sha256:7eb632f35fc3f52347bc2178118f43bab121b30ebbb9ffb44a346070ad3ecab5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1d0031_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 527
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1d0031_WYG_000-4a
+    span:
+    - body
+    - 527
+    - 7812
+  label: 儀禮釋宫
+  type: section
+  level: 1
+hash: sha256:3aa1f546365f79a6bfb8040b48f70352d3f4e46f85c822054a63d46d699fa139
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
