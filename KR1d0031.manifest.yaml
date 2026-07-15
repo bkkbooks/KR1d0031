@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1d0031/v1
 canonical_location: https://kanripo.org/bkk/KR1d0031/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 儀禮釋宮
   date: '2015-08-24 22:08:34.891732'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1d0031_000.yaml, hash: 'sha256:1b83de3358771a56d5a08d0bb457f33c5eb743383d86e5b4dd53521a539d54dc'}
+  - {seq: 0, filename: KR1d0031_000.yaml, hash: 'sha256:3f7993765331001a8d8afcdfccfcf778d4f6b9594003095e8cbd42f869b202ef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1d0031_000.markers.yaml, hash: 'sha256:3ce13d0da1ce85500835ba7d7f1e2ceff941ebbc54560038463ff6af404f9d48'}
+  - {seq: 0, role: markers, filename: assets/KR1d0031_000.markers.yaml, hash: 'sha256:7324815d46612348098fc2e0f82b760dc7d9a0a39d6ebe40d5d7bbf5764efb70'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 儀禮釋宫
   type: section
   level: 1
-hash: sha256:007bc476cde2f1dac8be95b100f0042f0c0ec810b5bb511731fa1f3936f38d05
+hash: sha256:007f06f47659560f52a8bf51842b2ce2e5fbb1988e2efd1aa78bd63e3ba63ef8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
