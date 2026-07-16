@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR1d0031_000.yaml, hash: 'sha256:3f7993765331001a8d8afcdfccfcf778d4f6b9594003095e8cbd42f869b202ef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1d0031_000.markers.yaml, hash: 'sha256:7324815d46612348098fc2e0f82b760dc7d9a0a39d6ebe40d5d7bbf5764efb70'}
+  - {seq: 0, role: markers, filename: assets/KR1d0031_000.markers.yaml, hash: 'sha256:9228c39f78448b209a274f920fc2247e38b49ac3b58b3968f8cadb656442bcfb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 儀禮釋宫
   type: section
   level: 1
-hash: sha256:007f06f47659560f52a8bf51842b2ce2e5fbb1988e2efd1aa78bd63e3ba63ef8
+hash: sha256:b9d5594addf228a4475b91a908b42f81787e6744805b08abef8e879891f93d60
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
